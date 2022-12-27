@@ -7,9 +7,9 @@
 //    console.log(a + b);
 //}
 
-//function sub(a, b) {
-//    console.log(a-b)
-//}
+function sub(a, b) {
+	console.log(a - b);
+}
 //function mult(a, b) {
 //    console.log(a*b)
 //}
