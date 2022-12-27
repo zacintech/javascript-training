@@ -8,5 +8,11 @@ console.log(discountPercent);
 
 roundedDiscountPercent = Math.round(discountPercent);
 
-console.log(roundedDiscountPercent);
+console.log(roundedDiscountPercent + " % off ");
 
+console.log(typeof result);
+
+
+var result = listingPrice > sellingPrice;
+
+console.log(typeof result);
